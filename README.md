@@ -1,7 +1,7 @@
 # MBTest
 My WEB Developer test 
 
-This project was made on XAMPP using Apache local server and PHPMyAdmin database. For editing file I used program "Notepad++".
+This project was made on XAMPP using Apache local server and PHPMyAdmin database. For editing files I used program "Notepad++".
 
 How to run project locally: 
 
