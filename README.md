@@ -29,6 +29,6 @@ How to run project locally:
 
 12. Open a new tab in your web browser.
 
-13. Type in following address : localhost/mbtest/index.php
+13. Type in following address : localhost/mbtest/index1.php
 
 14. Submitted emails can be viewed in mbtest database (Step 6) 
